@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../test_05web自动化测试/JSON/.idea/JSON.iml" filepath="$PROJECT_DIR$/../../test_05web自动化测试/JSON/.idea/JSON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestIHRMSystem/.idea/TestIHRMSystem.iml" filepath="$PROJECT_DIR$/../TestIHRMSystem/.idea/TestIHRMSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../test_05web自动化测试/project_tpshop/.idea/project_tpshop.iml" filepath="$PROJECT_DIR$/../../test_05web自动化测试/project_tpshop/.idea/project_tpshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test_tpshop_system/.idea/test_tpshop_system.iml" filepath="$PROJECT_DIR$/../test_tpshop_system/.idea/test_tpshop_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tpshop_connect.iml" filepath="$PROJECT_DIR$/.idea/tpshop_connect.iml" />
+    </modules>
+  </component>
+</project>
